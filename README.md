@@ -1,6 +1,8 @@
-This is my first coding project. and it is a game. I started to learn coding with programming language C.
+This is my first coding project. and it is a game. I started to learn coding with programming language C. THIS GAME IS MADE 
+BY  O S M A N   C A N   C I N A R
 
-	THIS GAME IS MADE BY	O S M A N   C A N   C I N A R
+
+
 
 	||			||			||			|| 			||
 	||			||			||			|| 			||
